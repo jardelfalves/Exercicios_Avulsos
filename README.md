@@ -15,3 +15,5 @@
 ## Contato
 
 jardelfalves@gmail.com
+Você pode conferir o projeto rodando [Clique aqui](https://jardelfalves.github.io/Exercicios_Avulsos/).
+
