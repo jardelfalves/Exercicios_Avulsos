@@ -1,5 +1,3 @@
-# Exercícios Avulsos ✔
-
 ## Evolução através de exercicios.
 
 - [x] Desenvolvimento do projeto no HTML.
